@@ -1,0 +1,28 @@
+
+
+
+.taskContainer{
+    display: flex;
+    margin-top: 15px;
+}
+.task{
+    height: 20px;
+    width: 350px;
+    background-color: aquamarine;
+    border-left: 2px solid blue;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+
+}
+.test{
+    height: 20px;
+    width: 300px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 500;  
+}
+.mark{
+    text-decoration: line-through;
+}
